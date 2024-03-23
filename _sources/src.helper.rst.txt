@@ -1,0 +1,29 @@
+src.helper package
+==================
+
+Submodules
+----------
+
+src.helper.hello module
+-----------------------
+
+.. automodule:: src.helper.hello
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.helper.mathops module
+-------------------------
+
+.. automodule:: src.helper.mathops
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: src.helper
+   :members:
+   :undoc-members:
+   :show-inheritance:
